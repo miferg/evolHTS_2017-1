@@ -1,4 +1,4 @@
-# Práctia de alineamiento múltiple de secuencias
+# Práctica de alineamiento múltiple de secuencias
 
 Instalar ambiente de jupyter
 
