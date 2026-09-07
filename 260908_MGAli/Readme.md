@@ -8,7 +8,8 @@ Ambiente para descargar genomas y otros datos del NCBI
 
 ```
 conda create -n ncbi_datasets \
--c conda-forge ncbi-datasets-cli
+-c conda-forge \
+ncbi-datasets-cli \
 -y -q
 ```
 
