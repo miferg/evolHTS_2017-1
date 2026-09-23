@@ -16,7 +16,7 @@ https://itol.embl.de/
 conda create -q -y -n orthofinder -c bioconda -c conda-forge orthofinder
 ```
 
-## buscar ortólogos y construir árbol filogenómico
+## Buscar ortólogos y construir árbol filogenómico
 
 ### obtener y ordenar datos
 
@@ -86,7 +86,7 @@ mv \
 nsgtree_out/
 ```
 
-### Anotación para iTOL
+### anotación para iTOL
 
 cargar tabla de genomas
 
